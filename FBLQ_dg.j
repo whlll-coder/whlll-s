@@ -1,4 +1,4 @@
-.class public debug
+.class public FBLQ
 .super java/lang/Object
 
 .method public <init>()V
